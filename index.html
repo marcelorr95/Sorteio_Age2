@@ -5,81 +5,92 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sorteio de times XAND CLAN</title>
-    <link rel="stylesheet" href="style.css">
-    
+    <link rel="stylesheet" href="style.css">    
 </head>
+
 <body>
     <div id="div1" class="container" align="center">
-      <h1 class="page-subtitle" align="center">
-        Sorteio de times XAND CLAN
-      </h1>
-			<table style="width:300px" border="1px">
-				<tr style="text-align: left">
-					<th>Jogador</th>
-					<th>Rating</th>
-				</tr>
-				<tr>
-       	  <td><label for="Atoron">Atoron</label></td>
-        	<td><input type="text" id="Atoron" name="fname" value="848"></td>        </tr>
-				<tr>
-          <td><label for="Bileh">Bileh</label></td>
-          <td><input type="text" id="Bileh" name="fname" value="788"></td>		  	</tr>
-				<tr>
-					<td><label for="Crets">CretS</label></td>
-					<td><input type="text" id="Crets" name="fname" value="1641"></td>				</tr>
-				<tr>
-      	  <td><label for="Duffy">Duffy</label></td>
-        	<td><input type="text" id="Duffy" name="fname" value="961"></td>				</tr>
-				<tr>
-      	  <td><label for="Fabio">Fabio</label></td>
-       	  <td><input type="text" id="Fabio" name="fname" value="1555"></td>        </tr>
-		<tr>
-      	  <td><label for="Fabricio">Fabricio</label></td>
-       	  <td><input type="text" id="Fabricio" name="fname" value="742"></td>         </tr>
-		</tr>
-				<tr>
-      	  <td><label for="Leonel">Leonel</label></td>
-       	  <td><input type="text" id="Leonel" name="fname" value="455"></td>         </tr>
-				<tr>
-			 	  <td><label for="Lucas">Lucas</label></td>
-			 	  <td><input type="text" id="Lucas" name="fname" value="1373"></td>				</tr>
-				<tr>
-          <td><label for="Marcelo">Marcelo</label></td>
-          <td><input type="text" id="Marcelo" name="fname" value="1039"></td>         </tr>
-		<tr>
-			<td><label for="Pastori">Pastori</label></td>
-			<td><input type="text" id="Pastori" name="fname" value="697"></td> 		  </tr>
-		  <tr>
-			<td><label for="Penteadogui">Penteadogui</label></td>
-			<td><input type="text" id="Penteadogui" name="fname" value="455"></td>		  </tr>
-		  <tr>    
-        	<td><label for="Ricardo">Ricardo</label></td>
-       	  <td><input type="text" id="Ricardo" name="fname" value="1461"></td>        </tr>
-				<tr>
-       		<td><label for="Ruddah">Ruddah</label></td>
-       		<td><input type="text" id="Ruddah" name="fname" value="1112"></td>   		  </tr>
-				<tr>
-       	  <td><label for="Tenca">Tenca</label></td>
-       	  <td><input type="text" id="Tenca" name="fname" value="873"></td>         </tr>
-			</table>
-      
-      <br>
-			<p>Tipo de partida</>
-      <input type="radio" id="x2" name="tipoDeJogo" value="x2" checked="X">
-      <label for="x2"> x2 </label>
-      <input type="radio" id="x3" name="tipoDeJogo" value="x3">
-      <label for="x3"> x3 </label>
-      <input type="radio" id="x4" name="tipoDeJogo" value="x4">
-      <label for="x4"> x4 </label>
-      <br><br>
-			<label for="diferenca">Chance Máxima de Vitória (%):</label>
-      <input type="text" id="diferenca" name="fname" value="60">
-			<br><br>
-      <button onClick ="sortear()">Sortear</button>
-      <br><br>
-    </div>      
+		<h1 class="page-subtitle" align="center">Sorteio de times XAND CLAN</h1>
+		<table style="width:300px" border="1px">
+			<tr style="text-align: left">
+				<th>Jogador</th>
+				<th>Rating</th>
+			</tr>
+			<tr>
+				<td><label for="Atoron">Atoron</label></td>
+				<td><input type="text" id="Atoron" name="fname" value="848"></td>
+			</tr>
+			<tr>
+				<td><label for="Bileh">Bileh</label></td>
+				<td><input type="text" id="Bileh" name="fname" value="788"></td>
+			</tr>
+			<tr>
+				<td><label for="Crets">CretS</label></td>
+				<td><input type="text" id="Crets" name="fname" value="1650"></td>
+			</tr>
+			<tr>
+				<td><label for="Duffy">Duffy</label></td>
+				<td><input type="text" id="Duffy" name="fname" value="970"></td>
+			</tr>
+			<tr>
+				<td><label for="Fabio">Fabio</label></td>
+				<td><input type="text" id="Fabio" name="fname" value="1546"></td>
+			</tr>
+			<tr>
+				<td><label for="Fabricio">Fabricio</label></td>
+				<td><input type="text" id="Fabricio" name="fname" value="742"></td>
+   			</tr>
+			<tr>
+				<td><label for="Leonel">Leonel</label></td>
+				<td><input type="text" id="Leonel" name="fname" value="455"></td>
+   			</tr>
+			<tr>
+				<td><label for="Lucas">Lucas</label></td>
+				<td><input type="text" id="Lucas" name="fname" value="1364"></td>
+			</tr>
+			<tr>
+				<td><label for="Marcelo">Marcelo</label></td>
+				<td><input type="text" id="Marcelo" name="fname" value="1030"></td>
+			</tr>
+			<tr>
+				<td><label for="Pastori">Pastori</label></td>
+				<td><input type="text" id="Pastori" name="fname" value="697"></td>
+			</tr>
+			<tr>
+				<td><label for="Penteadogui">Penteadogui</label></td>
+				<td><input type="text" id="Penteadogui" name="fname" value="455"></td>
+			</tr>
+			<tr>    
+				<td><label for="Ricardo">Ricardo</label></td>
+				<td><input type="text" id="Ricardo" name="fname" value="1470"></td>
+			</tr>
+			<tr>
+				<td><label for="Ruddah">Ruddah</label></td>
+				<td><input type="text" id="Ruddah" name="fname" value="1121"></td>
+			</tr>
+			<tr>
+				<td><label for="Tenca">Tenca</label></td>
+				<td><input type="text" id="Tenca" name="fname" value="864"></td>
+			</tr>
+		</table>
+		
+		<br>
+		<p>Tipo de partida</p>
+		<input type="radio" id="x2" name="tipoDeJogo" value="x2" checked="X">
+		<label for="x2"> x2 </label>
+		<input type="radio" id="x3" name="tipoDeJogo" value="x3">
+		<label for="x3"> x3 </label>
+		<input type="radio" id="x4" name="tipoDeJogo" value="x4">
+		<label for="x4"> x4 </label>
+		<br><br>
+		<label for="diferenca">Chance Máxima de Vitória (%):</label>
+		<input type="text" id="diferenca" name="fname" value="60">
+		<br><br>
+		<button onClick ="sortear()">Sortear</button>
+		<br><br>
+	</div>      
 	<div id="tabelaJogadores" align="center"> 
-    </div>
-    <script src="program.js"></script>
+	</div>
+	<script src="program.js"></script>
 </body>
 </html>
