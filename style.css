@@ -1,0 +1,11 @@
+body {
+    font-family: 'Calibri',monospace;
+    color:white;
+    font-size:22;
+    min-height: 400px;
+    /*background-image: url('https://www.wasd.pt/wp-content/uploads/2019/11/AOEIIDE.jpg');*/
+    background-color: black;
+    background-size: 140vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
