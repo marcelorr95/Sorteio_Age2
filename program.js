@@ -12,6 +12,13 @@ var bile = {
   indice: 0,
 }
 
+var caio = {
+  id: "Caio",
+  nome: "Caio",
+  rating: 0,
+  indice: 0,
+}
+
 var crets = {
   id: "Crets",
   nome: "CretS",
@@ -96,7 +103,7 @@ var tenca = {
   indice: 0,
 }
 
-var jogadores = [crets,ricardo,lu,fabio,duffy,atoron,ruddah,fabricio,bile,tenca,leonel,pastori,penteadogui,marcelo]
+var jogadores = [crets,ricardo,lu,fabio,duffy,atoron,ruddah,fabricio,bile,caio,tenca,leonel,pastori,penteadogui,marcelo]
 
 var time1 = [],
   time2 = []
