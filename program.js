@@ -1,13 +1,13 @@
 var atoron = {
   id: "Atoron",
-  nome: "Atoron",
+  nome: "Cafajeste",
   rating: 0,
   indice: 0,
 }
 
 var bile = {
   id: "Bileh",
-  nome: "Bileh",
+  nome: "Patchfinding",
   rating: 0,
   indice: 0,
 }
@@ -21,28 +21,28 @@ var caio = {
 
 var crets = {
   id: "Crets",
-  nome: "CretS",
+  nome: "Zangado",
   rating: 0,
   indice: 0,
 }
 
 var duffy = {
   id: "Duffy",
-  nome: "Duffy",
+  nome: "Delay",
   rating: 0,
   indice: 0,
 }
 
 var fabio = {
   id: "Fabio",
-  nome: "Fabio",
+  nome: "Trikas",
   rating: 0,
   indice: 0,
 }
 
 var fabricio = {
   id: "Fabricio",
-  nome: "Fabricio",
+  nome: "Quietude do Abestado",
   rating: 0,
   indice: 0,
 }
@@ -56,14 +56,14 @@ var leonel = {
 
 var lu = {
   id: "Lucas",
-  nome: "Lucas",
+  nome: "Docente",
   rating: 0,
   indice: 0,
 }
 
 var marcelo = {
   id: "Marcelo",
-  nome: "Marcelo",
+  nome: "Standup Sentado",
   rating: 0,
   indice: 0,
 }
@@ -84,21 +84,21 @@ var penteadogui = {
 
 var ricardo = {
   id: "Ricardo",
-  nome: "Ricardo",
+  nome: "Hobbit",
   rating: 0,
   indice: 0,
 }
 
 var ruddah = {
   id: "Ruddah",
-  nome: "Ruddah",
+  nome: "Brastemp",
   rating: 0,
   indice: 0,
 }
 
 var tenca = {
   id: "Tenca",
-  nome: "Tenca",
+  nome: "Low Elo Legend",
   rating: 0,
   indice: 0,
 }
