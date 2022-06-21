@@ -7,7 +7,7 @@ var atoron = {
 
 var bile = {
   id: "Bileh",
-  nome: "Patchfinding",
+  nome: "Pathfinding",
   rating: 0,
   indice: 0,
 }
