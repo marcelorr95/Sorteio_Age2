@@ -28,7 +28,7 @@ var crets = {
 
 var duffy = {
   id: "Duffy",
-  nome: "Delay",
+  nome: "Caiu a Conexão",
   rating: 0,
   indice: 0,
 }
@@ -49,7 +49,7 @@ var fabricio = {
 
 var leonel = {
   id: "Leonel",
-  nome: "Leonel",
+  nome: "Sagat",
   rating: 0,
   indice: 0,
 }
@@ -70,14 +70,14 @@ var marcelo = {
 
 var pastori = {
   id: "Pastori",
-  nome: "Pastori",
+  nome: "Pai do Duff",
   rating: 0,
   indice: 0,
 }
 
 var penteadogui = {
   id: "Penteadogui",
-  nome: "Penteadogui",
+  nome: "Coquedesamuraigui",
   rating: 0,
   indice: 0,
 }
@@ -98,7 +98,7 @@ var ruddah = {
 
 var tenca = {
   id: "Tenca",
-  nome: "Low Elo Legend",
+  nome: "Owner of a Fusca",
   rating: 0,
   indice: 0,
 }
