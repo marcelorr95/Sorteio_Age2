@@ -21,14 +21,14 @@ var caio = {
 
 var crets = {
   id: "Crets",
-  nome: "Zangado",
+  nome: "Cleiton de Moraes",
   rating: 0,
   indice: 0,
 }
 
 var duffy = {
   id: "Duffy",
-  nome: "Caiu a Conexão",
+  nome: "DUFFY ETERNO",
   rating: 0,
   indice: 0,
 }
@@ -42,7 +42,7 @@ var fabio = {
 
 var fabricio = {
   id: "Fabricio",
-  nome: "Quietude do Abestado",
+  nome: "Sultão Celta",
   rating: 0,
   indice: 0,
 }
@@ -56,7 +56,7 @@ var leonel = {
 
 var lu = {
   id: "Lucas",
-  nome: "Docente",
+  nome: "Luvas de pedreiro",
   rating: 0,
   indice: 0,
 }
@@ -70,7 +70,7 @@ var marcelo = {
 
 var pastori = {
   id: "Pastori",
-  nome: "Pai do Duff",
+  nome: "PASTOR",
   rating: 0,
   indice: 0,
 }
@@ -84,7 +84,7 @@ var penteadogui = {
 
 var ricardo = {
   id: "Ricardo",
-  nome: "Hobbit",
+  nome: "Anão",
   rating: 0,
   indice: 0,
 }
@@ -96,14 +96,23 @@ var ruddah = {
   indice: 0,
 }
 
-var tenca = {
-  id: "Tenca",
-  nome: "Owner of a Fusca",
+var sormach = {
+  id: "Sormach",
+  nome: "Sormach",
   rating: 0,
   indice: 0,
 }
 
-var jogadores = [crets,ricardo,lu,fabio,duffy,atoron,ruddah,fabricio,bile,caio,tenca,leonel,pastori,penteadogui,marcelo]
+var tenca = {
+  id: "Tenca",
+  nome: "Dirijo uma lenda",
+  rating: 0,
+  indice: 0,
+}
+
+var jogadores = [crets,ricardo,lu,fabio,duffy,atoron,ruddah,
+                 fabricio,bile,caio,tenca,leonel,pastori,penteadogui,
+                 sormach, marcelo]
 
 var time1 = [],
   time2 = []
