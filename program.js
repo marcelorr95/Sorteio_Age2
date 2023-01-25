@@ -1,13 +1,13 @@
 var atoron = {
   id: "Atoron",
-  nome: "Cafajeste",
+  nome: "Atoron",
   rating: 0,
   indice: 0,
 }
 
 var bile = {
   id: "Bileh",
-  nome: "Pathfinding",
+  nome: "Bileh",
   rating: 0,
   indice: 0,
 }
@@ -21,77 +21,77 @@ var caio = {
 
 var crets = {
   id: "Crets",
-  nome: "Cleiton de Moraes",
+  nome: "Crets",
   rating: 0,
   indice: 0,
 }
 
 var duffy = {
   id: "Duffy",
-  nome: "DUFFY ETERNO",
+  nome: "Duffy",
   rating: 0,
   indice: 0,
 }
 
 var fabio = {
   id: "Fabio",
-  nome: "Trikas",
+  nome: "Fabio",
   rating: 0,
   indice: 0,
 }
 
 var fabricio = {
   id: "Fabricio",
-  nome: "Sultão Celta",
+  nome: "Fabricio",
   rating: 0,
   indice: 0,
 }
 
 var leonel = {
   id: "Leonel",
-  nome: "Sagat",
+  nome: "Leonel",
   rating: 0,
   indice: 0,
 }
 
 var lu = {
   id: "Lucas",
-  nome: "Luvas de pedreiro",
+  nome: "Lucas",
   rating: 0,
   indice: 0,
 }
 
 var marcelo = {
   id: "Marcelo",
-  nome: "Standup Sentado",
+  nome: "Marcelo",
   rating: 0,
   indice: 0,
 }
 
 var pastori = {
   id: "Pastori",
-  nome: "PASTOR",
+  nome: "Pastori",
   rating: 0,
   indice: 0,
 }
 
 var penteadogui = {
   id: "Penteadogui",
-  nome: "Coquedesamuraigui",
+  nome: "Penteadogui",
   rating: 0,
   indice: 0,
 }
 
 var ricardo = {
   id: "Ricardo",
-  nome: "Anão",
+  nome: "Ricardo",
   rating: 0,
   indice: 0,
 }
 
 var ruddah = {
   id: "Ruddah",
-  nome: "Brastemp",
+  nome: "Ruddah",
   rating: 0,
   indice: 0,
 }
@@ -105,7 +105,7 @@ var sormach = {
 
 var tenca = {
   id: "Tenca",
-  nome: "Dirijo uma lenda",
+  nome: "Tenca",
   rating: 0,
   indice: 0,
 }
