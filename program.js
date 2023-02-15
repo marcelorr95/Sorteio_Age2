@@ -47,6 +47,13 @@ var fabricio = {
   indice: 0,
 }
 
+var jey= {
+  id: "Jey",
+  nome: "Jey",
+  rating: 0,
+  indice: 0,
+}
+
 var leonel = {
   id: "Leonel",
   nome: "Leonel",
@@ -57,6 +64,13 @@ var leonel = {
 var lu = {
   id: "Lucas",
   nome: "Lucas",
+  rating: 0,
+  indice: 0,
+}
+
+var macedim = {
+  id: "Macedim",
+  nome: "Macedim",
   rating: 0,
   indice: 0,
 }
@@ -112,7 +126,7 @@ var tenca = {
 
 var jogadores = [crets,ricardo,lu,fabio,duffy,atoron,ruddah,
                  fabricio,bile,caio,tenca,leonel,pastori,penteadogui,
-                 sormach, marcelo]
+                 macedim, jey, sormach, marcelo]
 
 var time1 = [],
   time2 = []
